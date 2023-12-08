@@ -10,7 +10,7 @@
 - description: 링크
   * 예시:
     ```
-    git commit -m "[BOJ] 별 찍기 - 1 / IMP / 20" -m "https://www.acmicpc.net/problem/2438"
+    git commit -m "[BOJ] 별 찍기-1 / IMP / 20" -m "https://www.acmicpc.net/problem/2438"
     ```
 
 #### Abbreviations
