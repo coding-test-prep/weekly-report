@@ -1,4 +1,4 @@
-# [BOJ] 괄호 / STR / 35
+# [BOJ] 괄호 / STK / 35
 
 import sys 
 from collections import deque
